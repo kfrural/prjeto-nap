@@ -1,0 +1,56 @@
+.a {
+    background-image: url(https://img.freepik.com/fotos-gratis/closeup-de-pessoa-leitura-e-estudar-documento_1262-16061.jpg?w=740&t=st=1676587688~exp=1676588288~hmac=4455c5fb06f42628e5bd83a3cc63dbbc59c3cfc89ab5f84dcdf079e2cfd86ef1);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.c {
+    background-image: url(https://cdn.univicosa.com.br/img/portal/nap/big/logo.jpg);
+    background-size: 30px;
+}
+
+.form {
+    text-align: center;
+}
+
+.b {
+    background-color: aliceblue;
+    opacity: 0.8;
+    position: absolute;
+    border-radius: 40px;
+    top: 25%;
+    left: 35%;
+    padding: 15px;
+}
+
+.botao {
+    text-align: center;
+    opacity: 1.0;
+}
+
+.imput {
+    padding: 0px;
+    margin: auto;
+    border-radius: 40px;
+    position: relative;
+    border-bottom: 1px solid;
+    outline: none;
+}
+.b2{
+    background-color: rgb(141, 191, 235);
+    opacity: 0.8;
+    position: absolute;
+    border-radius: 40px;
+    margin: auto;
+    top: 25%;
+    left: 25%;
+    padding: 15px;
+}
+.c2{
+    text-align: center;
+}
+.pg2{
+    background-image: url(https://blog.imedicina.com.br/wp-content/uploads/elementor/thumbs/shutterstock_125607485-1-oslx3ol7jdw7kfevxdgj16ozv2u2wfbsqtlnah8uxs.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
