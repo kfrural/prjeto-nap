@@ -36,21 +36,48 @@
     border-bottom: 1px solid;
     outline: none;
 }
-.b2{
-    background-color: rgb(141, 191, 235);
-    opacity: 0.8;
-    position: absolute;
-    border-radius: 40px;
-    margin: auto;
-    top: 25%;
-    left: 25%;
-    padding: 15px;
+.logouni{
+    background-color: #003E9B;
 }
-.c2{
+.ab{
+    color: #003E9B;
+}
+.ba{
     text-align: center;
 }
-.pg2{
-    background-image: url(https://blog.imedicina.com.br/wp-content/uploads/elementor/thumbs/shutterstock_125607485-1-oslx3ol7jdw7kfevxdgj16ozv2u2wfbsqtlnah8uxs.jpg);
-    background-repeat: no-repeat;
-    background-size: 100%;
+.p{
+    float: left;
+    background-color: #b8b8b8;
+    text-align: center;
+
+    padding: 0px;
+    margin: auto;
+    border-radius: 40px;
+    position: relative;
+    border-bottom: 1px solid;
+    outline: none;
+}
+.z{
+    float: left;
+}
+.inv{
+    color: #b8b8b8;
+}
+.za{
+    color: #b8b8b8;
+    float: left;
+}
+.zb{
+    color: #ffffff;
+    float: left;
+}
+.fim{
+    background-color: #003E9B;
+    position: absolute;
+    bottom: 0;
+    color: #FFF;
+    width: 100%;
+    height: 100px;    
+    text-align: center;
+    line-height: 100px;
 }
