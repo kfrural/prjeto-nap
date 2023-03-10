@@ -14,12 +14,13 @@
 }
 
 .b {
-    background-color: aliceblue;
-    opacity: 0.8;
+    background-color: #ffffff;
     position: absolute;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
     border-radius: 40px;
-    top: 25%;
-    left: 35%;
     padding: 15px;
 }
 
@@ -36,48 +37,128 @@
     border-bottom: 1px solid;
     outline: none;
 }
-.logouni{
+
+.logouni {
+    float: left;
     background-color: #003E9B;
+    position: absolute;
+    color: #FFF;
+    width: 100%;
+    height: 70px;
+    line-height: 80px;
 }
-.ab{
-    color: #003E9B;
+
+.logo {
+    float: left;
+    position: absolute;
+    width: 150px;
+    height: 41px;
+    left: 12px;
+    top: 15px;
 }
-.ba{
+
+.ba {
     text-align: center;
 }
-.p{
+
+.pa {
     float: left;
     background-color: #b8b8b8;
     text-align: center;
-
-    padding: 0px;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translateY(-50%) translateX(-50%);
+    border-radius: 40px;
+    padding: 15px;
     margin: auto;
     border-radius: 40px;
-    position: relative;
     border-bottom: 1px solid;
     outline: none;
+    width: 15%;
+    height: 35%;
 }
-.z{
+
+.pb {
     float: left;
+    background-color: #b8b8b8;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    border-radius: 40px;
+    padding: 15px;
+    margin: auto;
+    border-radius: 40px;
+    border-bottom: 1px solid;
+    outline: none;
+    width: 15%;
+    height: 35%;
 }
-.inv{
-    color: #b8b8b8;
-}
-.za{
-    color: #b8b8b8;
+
+.pc {
     float: left;
+    background-color: #b8b8b8;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    transform: translateY(-50%) translateX(-50%);
+    border-radius: 40px;
+    padding: 15px;
+    margin: auto;
+    border-radius: 40px;
+    border-bottom: 1px solid;
+    outline: none;
+    width: 15%;
+    height: 35%;
 }
-.zb{
-    color: #ffffff;
+
+.z {
     float: left;
+    position: absolute;
+    width: 160.45px;
+    height: 160.45px;
+    left: 34px;
+    top: 55px;
 }
-.fim{
+
+.fim {
+    float: left;
     background-color: #003E9B;
     position: absolute;
     bottom: 0;
     color: #FFF;
     width: 100%;
-    height: 100px;    
+    height: 70px;
     text-align: center;
-    line-height: 100px;
+    line-height: 70px;
+}
+
+.lfim {
+    float: left;
+    position: relative;
+    left: 40%;
+    top: 30%;
+}
+
+.w {
+    float: left;
+    position: absolute;
+    width: 160.45px;
+    height: 160.45px;
+    left: 34px;
+    top: 170px;
+}
+
+.tfim {
+    font-size: 10px;
+}
+
+.sair {
+    position: relative;
+    top: -90px;
+    left: 1430px;
+    color: #ffffff;
 }
